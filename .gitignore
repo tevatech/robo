@@ -1,0 +1,21 @@
+
+.env
+*.env
+
+# Python e Compilação
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+*.exe
+
+# Arquivos de dados e logs corporativos
+*.csv
+*.xlsx
+*.part
+*.crdownload
+historico_execucoes*.csv
+
+# Travas do Firefox
+parent.lock
